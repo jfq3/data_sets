@@ -1,0 +1,13 @@
+	Depth	Site	Slope
+L1_H10	0-20 cm	HNC	Top
+L1_H16	60-80cm	HNC	Top
+L1_H20	0-20 cm	HNC	Middle
+L1_H26	60-80cm	HNC	Middle
+L1_H30	0-20 cm	HNC	Bottom
+L1_H36	60-80cm	HNC	Bottom
+L1_L10	0-20 cm	LHSF	Top
+L1_L16	60-80cm	LHSF	Top
+L1_L20	0-20 cm	LHSF	Middle
+L1_L26	60-80cm	LHSF	Middle
+L1_L30	0-20 cm	LHSF	Bottom
+L1_L36	60-80cm	LHSF	Bottom
